@@ -1,3 +1,3 @@
 # origin-application-akamai
-Origin Server for sbammiga.gsshappylearning.com
+Origin Server for CDN
 # origin-demo
